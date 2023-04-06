@@ -1,4 +1,4 @@
-# Tableau_Dashboards
+# Tableau Dashboards
 This repository contains Tableau Dashboard Projects. Each project has its files separately placed in respective folders.<br>
 
 <b>Dashboards:</b> <br>
